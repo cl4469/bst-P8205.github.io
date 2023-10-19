@@ -1,0 +1,41 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+
+you can add text
+
+*and lists
+*with extra bullets
+
+you can *format*and **bold**
+
+you can still use R
+
+```{r}
+library(tidyverse)
+```
+This is a [link]()
+here is a link to the [about]()
+
+# Here is a new section
+my cat is ted. This is ted:
+![](image/ted.jpg)
+
+
+
+
+
+
+
+
